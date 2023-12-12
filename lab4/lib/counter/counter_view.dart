@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 // ignore: prefer_typing_uninitialized_variables
 // ignore: depend_on_referenced_packages;
 import 'counter_button.dart';
+import '../widgets/counter_label.dart';
+
 // Chú ý đường dẫn và tên file của widgets
 
 class CounterView extends StatefulWidget {

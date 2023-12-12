@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Bùi Văn Khang',
+      title: 'Nguyenvantoan',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -33,7 +33,7 @@ class _CounterScreenState extends State<CounterScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Bùi Văn Khang - 2121051299'),
+        title: Text('Nguyenvantoan - 2121050813'),
       ),
       body: Center(
         child: Column(
