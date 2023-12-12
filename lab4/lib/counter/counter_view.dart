@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // ignore: prefer_typing_uninitialized_variables
-ignore: depend_on_referenced_packages;
+// ignore: depend_on_referenced_packages;
 import 'counter_button.dart';
 // Chú ý đường dẫn và tên file của widgets
 

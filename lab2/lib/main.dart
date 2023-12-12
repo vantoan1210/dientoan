@@ -1,7 +1,7 @@
 // Bài thực hành: Các phương thức xử lý List, Set và Map trong Dart
 
-// Họ tên:Bùi Văn Khang
-// MSSV:2121051299
+// Họ tên:Nguyen van toan
+// MSSV:2121050813
 // 1. Các phương thức xử lý List
 
 // Khởi tạo một List số nguyên với giá trị ban đầu
