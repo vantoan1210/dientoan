@@ -17,7 +17,7 @@ class SampleItemDetailsView extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'Bùi Văn Khang - 2121051299',
+              'Nguyễn vản toàn-2021050813',
               style: TextStyle(
                 color: Color.fromARGB(255, 243, 33, 177),
                 
