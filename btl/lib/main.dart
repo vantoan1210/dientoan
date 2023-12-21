@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/services.dart';
 import './screens/home.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+void main() => runApp(new MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
